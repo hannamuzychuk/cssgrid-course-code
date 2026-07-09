@@ -3,4 +3,7 @@
 /* lesson styles */
 
 .container {
+    display: grid;
+    /* display: inline-grid; */
+
 }
